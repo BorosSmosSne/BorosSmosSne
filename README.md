@@ -22,11 +22,16 @@
 
 <hr/>
 
+## The point of view
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:14b8a6&height=70&section=header&text=THE%20POINT%20OF%20VIEW&fontSize=22&fontColor=ffffff&fontAlignY=55&desc=Small%20teams%2C%20ambitious%20ideas%2C%20useful%20collaborations&descAlignY=85&descSize=14" width="100%" />
+</p>
+
 <table width="100%">
 <tbody>
 <tr>
 <td width="58%">
-<h2>The point of view</h2>
 <blockquote>Heng Chhay (SV9)</blockquote>
 <p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p>
 </td>
@@ -93,6 +98,10 @@
 
 ## Contribution trail
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:14b8a6&height=50&section=header&text=SNAKE%20TRAIL&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
+
 <!--START_SECTION:snake-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borossmossne/borossmossne/output/github-contribution-grid-snake-dark.svg" />
@@ -101,7 +110,9 @@
 </picture>
 <!--END_SECTION:snake-->
 
-<p align="center"><sub>50 contributions, one continuous run — live</sub></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:0f2027&height=40&section=footer&text=50%20contributions%2C%20one%20continuous%20run%20—%20live&fontSize=13&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
 
 <hr/>
 
