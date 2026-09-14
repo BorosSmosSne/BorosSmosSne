@@ -9,6 +9,13 @@
 </picture>
 </p>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&label=Heng%20Chhay&v=cinematic-hero-wordmark-1&mode=light" />
+  <img width="100%" alt="Heng Chhay animated ASCII name" src="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&label=Heng%20Chhay&v=cinematic-hero-wordmark-1&mode=dark" />
+</picture>
+</p>
+
 <h3 align="center">Frontend or full-stack engineer · Phnom Penh</h3>
 <p align="center">Heng Chhay (SV9)</p>
 <p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
