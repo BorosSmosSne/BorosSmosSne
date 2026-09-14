@@ -1,98 +1,115 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Heng+Chhay;Frontend+%2F+Full-Stack+Developer;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
+<pre>
+  ____                      ____                    ____                   
+ |  _ \  ___  _ __ ___  ___/ ___| _ __ ___   ___   / ___| _ __   ___  ___ 
+ | |_) |/ _ \| '__/ _ \/ __\___ \| '_ ` _ \ / _ \  \___ \| '_ \ / _ \/ _ \
+ |  _ <| (_) | | | (_) \__ \___) | | | | | | (_) |  ___) | | | |  __/  __/
+ |_| \_\\___/|_|  \___/|___/____/|_| |_| |_|\___/  |____/|_| |_|\___|\___|
+</pre>
 
-<br/>
+<p align="center">
+  <b>Frontend or full-stack engineer · Phnom Penh</b><br>
+  <b>Heng Chhay (SV9)</b>
+</p>
 
-<img src="https://img.shields.io/badge/Dart-282A36?style=for-the-badge&logo=dart&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/C++-282A36?style=for-the-badge&logo=cplusplus&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/CMake-282A36?style=for-the-badge&logo=cmake&logoColor=50FA7B" />
+<p align="center">
+  <a href="https://github.com/BorosSmosSne">
+    <img src="https://img.shields.io/badge/GitHub-@BorosSmosSne-bd93f9?style=for-the-badge&logo=github&logoColor=white&color=282a36&labelColor=44475a" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dracula animated line separator">
 
 </div>
 
-<br/>
+## 🎬 The point of view
 
-## 👋 About me
+> **Heng Chhay (SV9)**  
+> *Small teams, ambitious ideas, and useful collaborations.*
 
-I'm **Heng Chhay (SV9)** — building small, useful things in public. I like working with people who care about details, share context, and ship something real.
-
-- 🔭 Currently focused on **Dart** and mobile/full-stack projects
-- 🌱 Also working with **TypeScript**, **C++**, and **CMake**
-- 📍 Based in **Phnom Penh, Cambodia**
-- 💬 Open an issue, improve the docs, or just say hi
-
-<br/>
-
-## 🧰 Tech Stack
+<br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dart,ts,cpp,cmake,html,py&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BorosSmosSne&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&bg_color=282a36" alt="BorosSmosSne GitHub Stats" />
 </div>
 
-<br/>
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## ✂️ In the current cut
+
+<div align="center">
+  <p><b>Current Focus & Active Build Queue</b></p>
+  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <br><br>
+  <p><i>The ideas, experiments, and decisions moving the work forward.</i></p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎨 Production palette
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorosSmosSne&theme=dracula&hide_border=true&layout=compact&langs_count=6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="BorosSmosSne Top Languages" />
+  <br><br>
+  <p><i>Tools chosen for the work, not the trend</i></p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎞️ Featured reel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BorosSmosSne&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorosSmosSne&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Languages" height="165"/>
+| Projects List | `./projects.sh --all` |
+| :--- | :--- |
+| <a href="https://github.com/BorosSmosSne/angkor_burger_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=angkor_burger_app&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Angkor Burger App"></a> | <a href="https://github.com/BorosSmosSne/pos_system_SV9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=pos_system_SV9&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="POS System"></a> |
+| <a href="https://github.com/BorosSmosSne/tha-nu-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=tha-nu-portfolio&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Portfolio"></a> | <a href="https://github.com/BorosSmosSne/expend-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=expend-tracker&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Expend Tracker"></a> |
 
 </div>
-
-<br/>
-
-## 🚀 Repositories worth exploring
-
-| Repo | Description | Language |
-|---|---|---|
-| [**angkor_burger_app**](https://github.com/BorosSmosSne/angkor_burger_app) | A public project looking for its next contributor | Dart |
-| [**pos_system_SV9**](https://github.com/BorosSmosSne/pos_system_SV9) | A public project looking for its next contributor | Dart |
-| [**tha-nu-portfolio**](https://github.com/BorosSmosSne/tha-nu-portfolio) | A public project looking for its next contributor | TypeScript |
-| [**expend-tracker**](https://github.com/BorosSmosSne/expend-tracker) | A public project looking for its next contributor | HTML |
-| [**new_portfolio**](https://github.com/BorosSmosSne/new_portfolio) | A public project looking for its next contributor | TypeScript |
-
-<br/>
-
-## 🔥 Contribution Trail
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BorosSmosSne&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" alt="Streak Stats" />
-
-<br/><br/>
-
-![Snake animation](https://github.com/BorosSmosSne/BorosSmosSne/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-> 💡 The snake graphic above requires a one-time setup — see the note at the bottom of this file.
-
-<br/>
-
-## 🤝 Let's connect
+## 🐍 Contribution trail
 
 <div align="center">
-
-<a href="https://github.com/BorosSmosSne"><img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" /></a>
-
+  <p><b>50 contributions, one continuous run</b></p>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
-
-<br/>
 
 <div align="center">
-<sub>Heng Chhay · profile styled with the <a href="https://draculatheme.com">Dracula</a> color palette</sub>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!--
-SETUP NOTES:
-1. Replace "BorosSmosSne" anywhere it appears if this isn't your exact GitHub username casing.
-2. GitHub usernames are case-insensitive for stats APIs, so this should work as-is.
-3. For the animated snake contribution graph to render, create a repo named exactly
-   "BorosSmosSne" (a "profile" repo) if you don't have one, then add this GitHub Action:
-   https://github.com/Platane/snk — it generates the "output" branch and SVG automatically.
-4. To swap the typing banner text, edit the "lines=" parameter in the readme-typing-svg URL.
-5. This file goes in a repo named exactly your username (e.g. BorosSmosSne/BorosSmosSne)
-   with a README.md at the root — GitHub will then show it on your profile page.
--->
+## ⏭️ Play the next move
+
+<div align="center">
+  <h3>Keep the story moving</h3>
+  <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+  <br>
+  
+  <a href="https://github.com/BorosSmosSne">
+    <img src="https://img.shields.io/badge/GitHub-BorosSmosSne-bd93f9?style=for-the-badge&logo=github&logoColor=white&color=282a36&labelColor=44475a"/>
+  </a>
+</div>
