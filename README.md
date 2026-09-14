@@ -24,25 +24,23 @@
 
 ## The point of view
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:14b8a6&height=70&section=header&text=THE%20POINT%20OF%20VIEW&fontSize=22&fontColor=ffffff&fontAlignY=55&desc=Small%20teams%2C%20ambitious%20ideas%2C%20useful%20collaborations&descAlignY=85&descSize=14" width="100%" />
-</p>
+<div align="center">
 
-<table width="100%">
-<tbody>
-<tr>
-<td width="58%">
 <blockquote>Heng Chhay (SV9)</blockquote>
-<p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p>
-</td>
-<td width="42%">
-<p><code>PROFILE</code></p>
-<p><sub>ROLE · Frontend or full-stack engineer<br>BASED · Phnom Penh<br>FOCUS · Dart</sub></p>
-<p><strong>11</strong> repos<br><strong>51</strong> contributions<br><strong>0</strong> followers</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+<sub>Small teams, ambitious ideas, and useful collaborations.</sub>
+
+<br/><br/>
+
+<code>PROFILE</code>
+
+<sub>ROLE · Frontend or full-stack engineer<br>BASED · Phnom Penh<br>FOCUS · Dart</sub>
+
+<br/>
+
+<strong>11</strong> repos &nbsp;·&nbsp; <strong>51</strong> contributions &nbsp;·&nbsp; <strong>0</strong> followers
+
+</div>
 
 <hr/>
 
@@ -99,19 +97,10 @@
 ## Contribution trail
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:14b8a6&height=50&section=header&text=SNAKE%20TRAIL&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
-</p>
-
-<!--START_SECTION:snake-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borossmossne/borossmossne/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borossmossne/borossmossne/output/github-contribution-grid-snake.svg" />
-  <img alt="Heng Chhay's contribution snake" src="https://raw.githubusercontent.com/borossmossne/borossmossne/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img width="100%" alt="Heng Chhay contribution snake" src="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" />
 </picture>
-<!--END_SECTION:snake-->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:0f2027&height=40&section=footer&text=50%20contributions%2C%20one%20continuous%20run%20—%20live&fontSize=13&fontColor=ffffff&fontAlignY=65" width="100%" />
 </p>
 
 <hr/>
