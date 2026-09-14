@@ -26,14 +26,14 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" style="display: table; width: 100%; table-layout: fixed;">
 <tbody>
 <tr>
-<td align="center">
+<td width="58%" align="center">
 <blockquote>Heng Chhay (SV9)</blockquote>
 <p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p>
 </td>
-<td align="center">
+<td width="42%" align="center">
 <p><code>PROFILE</code></p>
 <p><sub>ROLE · Frontend or full-stack engineer<br>BASED · Phnom Penh<br>FOCUS · Dart</sub></p>
 <p><strong>11</strong> repos<br><strong>51</strong> contributions<br><strong>0</strong> followers</p>
