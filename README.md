@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<table width="80%">
+<table width="100%">
 <tbody>
 <tr>
 <td align="center">
