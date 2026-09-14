@@ -1,115 +1,94 @@
 <div align="center">
 
-<pre>
-  ____                      ____                    ____                   
- |  _ \  ___  _ __ ___  ___/ ___| _ __ ___   ___   / ___| _ __   ___  ___ 
- | |_) |/ _ \| '__/ _ \/ __\___ \| '_ ` _ \ / _ \  \___ \| '_ \ / _ \/ _ \
- |  _ <| (_) | | | (_) \__ \___) | | | | | | (_) |  ___) | | | |  __/  __/
- |_| \_\\___/|_|  \___/|___/____/|_| |_| |_|\___/  |____/|_| |_|\___|\___|
-</pre>
+<p><code>borossmossne@github ~ $ ./maintainer.sh</code></p>
 
 <p align="center">
-  <b>Frontend or full-stack engineer · Phnom Penh</b><br>
-  <b>Heng Chhay (SV9)</b>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Heng Chhay animated maintainer system scan" />
+</picture>
 </p>
+</div>
+
+<h2>Why I build in public</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Dart</code> · <code>TypeScript</code> · <code>C++</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>10 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>50 contributions · 26 active days</p></td>
+</tr>
+</table>
+
+<p>Heng Chhay (SV9)</p>
+
+<h2>Open-source toolbox</h2>
+
+<p><code>borossmossne@github ~ $ toolbox --list</code></p>
 
 <p align="center">
-  <a href="https://github.com/BorosSmosSne">
-    <img src="https://img.shields.io/badge/GitHub-@BorosSmosSne-bd93f9?style=for-the-badge&logo=github&logoColor=white&color=282a36&labelColor=44475a" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Heng Chhay open-source technology toolbox" />
+</picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Dracula animated line separator">
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Dart</strong><br /><sub>58%</sub></td>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>13%</sub></td>
+<td width="17%" align="center"><strong>C++</strong><br /><sub>9%</sub></td>
+<td width="17%" align="center"><strong>CMake</strong><br /><sub>7%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>6%</sub></td>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>4%</sub></td>
+</tr>
+</table>
 
-</div>
+<h2>Repositories worth exploring</h2>
 
-## 🎬 The point of view
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker%2Cborossmossne%2Fnew_portfolio&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker%2Cborossmossne%2Fnew_portfolio&v=oss-projects-1&mode=dark" width="860" alt="Heng Chhay maintainer repositories" />
+</picture>
+</p>
 
-> **Heng Chhay (SV9)**  
-> *Small teams, ambitious ideas, and useful collaborations.*
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/pos_system_SV9">pos_system_SV9</a></h3><p>A public project looking for its next contributor.</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/tha-nu-portfolio">tha-nu-portfolio</a></h3><p>A public project looking for its next contributor.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/expend-tracker">expend-tracker</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/new_portfolio">new_portfolio</a></h3><p>A public project looking for its next contributor.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<br>
+<h2>Contribution activity</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BorosSmosSne&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&bg_color=282a36" alt="BorosSmosSne GitHub Stats" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Heng Chhay open-source signal" />
+</picture>
+</p>
 
-<br>
+<h2>Contribution trail</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Heng Chhay contribution trail" />
+</picture>
+</p>
 
-## ✂️ In the current cut
+<hr />
 
-<div align="center">
-  <p><b>Current Focus & Active Build Queue</b></p>
-  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <br><br>
-  <p><i>The ideas, experiments, and decisions moving the work forward.</i></p>
-</div>
+<h2>Contribute together</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-## 🎨 Production palette
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorosSmosSne&theme=dracula&hide_border=true&layout=compact&langs_count=6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="BorosSmosSne Top Languages" />
-  <br><br>
-  <p><i>Tools chosen for the work, not the trend</i></p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎞️ Featured reel
-
-<div align="center">
-
-| Projects List | `./projects.sh --all` |
-| :--- | :--- |
-| <a href="https://github.com/BorosSmosSne/angkor_burger_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=angkor_burger_app&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Angkor Burger App"></a> | <a href="https://github.com/BorosSmosSne/pos_system_SV9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=pos_system_SV9&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="POS System"></a> |
-| <a href="https://github.com/BorosSmosSne/tha-nu-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=tha-nu-portfolio&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Portfolio"></a> | <a href="https://github.com/BorosSmosSne/expend-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BorosSmosSne&repo=expend-tracker&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Expend Tracker"></a> |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🐍 Contribution trail
-
-<div align="center">
-  <p><b>50 contributions, one continuous run</b></p>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BorosSmosSne/BorosSmosSne/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## ⏭️ Play the next move
-
-<div align="center">
-  <h3>Keep the story moving</h3>
-  <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
-  <br>
-  
-  <a href="https://github.com/BorosSmosSne">
-    <img src="https://img.shields.io/badge/GitHub-BorosSmosSne-bd93f9?style=for-the-badge&logo=github&logoColor=white&color=282a36&labelColor=44475a"/>
-  </a>
-</div>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Heng Chhay community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
+<p align="center"><sub>Heng Chhay · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
