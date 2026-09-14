@@ -1,14 +1,20 @@
 <div align="center">
-
-<p><code>borossmossne@github ~ $ ./maintainer.sh</code></p>
+<sub>AN EDITORIAL PROFILE · BOROSSMOSSNE</sub>
+</div>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Heng Chhay animated maintainer system scan" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=borossmossne&theme=neon&style=editorial&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&name=Heng%20Chhay&subtitle=Heng%20Chhay%20(SV9)&tags=Dart%2CTypeScript%2CC%2B%2B%2CCMake&v=oss-hero-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=borossmossne&theme=neon&style=editorial&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&name=Heng%20Chhay&subtitle=Heng%20Chhay%20(SV9)&tags=Dart%2CTypeScript%2CC%2B%2B%2CCMake&v=oss-hero-1&mode=dark" width="860" alt="Heng Chhay editorial profile header" />
 </picture>
 </p>
-</div>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=neon&style=terminal&command=./wordmark.sh --name&v=oss-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=neon&style=terminal&command=./wordmark.sh --name&v=oss-wordmark-1&mode=dark" width="860" alt="Heng Chhay ASCII wordmark" />
+</picture>
+</p>
 
 <h2>Why I build in public</h2>
 
@@ -20,11 +26,7 @@
 </tr>
 </table>
 
-<p>Heng Chhay (SV9)</p>
-
 <h2>Open-source toolbox</h2>
-
-<p><code>borossmossne@github ~ $ toolbox --list</code></p>
 
 <p align="center">
 <picture>
@@ -32,17 +34,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Heng Chhay open-source technology toolbox" />
 </picture>
 </p>
-
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>Dart</strong><br /><sub>58%</sub></td>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>13%</sub></td>
-<td width="17%" align="center"><strong>C++</strong><br /><sub>9%</sub></td>
-<td width="17%" align="center"><strong>CMake</strong><br /><sub>7%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>6%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>4%</sub></td>
-</tr>
-</table>
 
 <h2>Repositories worth exploring</h2>
 
@@ -53,15 +44,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/pos_system_SV9">pos_system_SV9</a></h3><p>A public project looking for its next contributor.</p><p><sub>Dart · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/tha-nu-portfolio">tha-nu-portfolio</a></h3><p>A public project looking for its next contributor.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/expend-tracker">expend-tracker</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BorosSmosSne/new_portfolio">new_portfolio</a></h3><p>A public project looking for its next contributor.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
 <h2>Contribution activity</h2>
 
 <p align="center">
@@ -71,12 +53,13 @@
 </picture>
 </p>
 
-<h2>Contribution trail</h2>
+<h2>Contribution trail 🔥</h2>
+<p><em>My favorite section — animated activity heatmap below.</em></p>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Heng Chhay contribution trail" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&animated=true&v=oss-heatmap-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&animated=true&v=oss-heatmap-2&mode=dark" width="100%" alt="Heng Chhay animated contribution trail" />
 </picture>
 </p>
 
@@ -86,9 +69,11 @@
 
 <p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-<p align="center"><picture>
+<p align="center">
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-social-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/social?username=borossmossne&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Heng Chhay community links" />
-</picture></p>
+</picture>
+</p>
 <p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
 <p align="center"><sub>Heng Chhay · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
