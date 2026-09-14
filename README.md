@@ -9,13 +9,6 @@
 </picture>
 </p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=neon&style=terminal&command=./cinematic.sh --name&v=oss-wordmark-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=borossmossne&theme=neon&style=terminal&command=./cinematic.sh --name&v=oss-wordmark-2&mode=dark" width="860" alt="Heng Chhay ASCII wordmark" />
-</picture>
-</p>
-
 <h3 align="center">Frontend or full-stack engineer · Phnom Penh</h3>
 <p align="center">Heng Chhay (SV9)</p>
 <p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
@@ -75,13 +68,6 @@
 ---
 
 ## Featured reel
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=neon&style=cards&command=./projects.sh --all&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker&v=oss-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=neon&style=cards&command=./projects.sh --all&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker&v=oss-projects-2&mode=dark" width="860" alt="Heng Chhay featured reel" />
-</picture>
-</p>
 
 <table width="100%">
 <tr>
