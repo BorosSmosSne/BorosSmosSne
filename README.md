@@ -20,74 +20,76 @@
 <p align="center">Heng Chhay (SV9)</p>
 <p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
 
----
+<hr/>
 
 <table width="100%">
+<tbody>
 <tr>
-<td width="60%" valign="top">
-<h3>The point of view</h3>
+<td width="58%">
+<h2>The point of view</h2>
 <blockquote>Heng Chhay (SV9)</blockquote>
-<p>Small teams, ambitious ideas, and useful collaborations.</p>
+<p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p>
 </td>
-<td width="40%" valign="top">
-
-**PROFILE**
-
-`ROLE` — Frontend or full-stack engineer
-`BASED` — Phnom Penh
-`FOCUS` — Dart
-
-- 10 repos
-- 50 contributions
-- 0 followers
-
+<td width="42%">
+<p><code>PROFILE</code></p>
+<p><sub>ROLE · Frontend or full-stack engineer<br>BASED · Phnom Penh<br>FOCUS · Dart</sub></p>
+<p><strong>11</strong> repos<br><strong>51</strong> contributions<br><strong>0</strong> followers</p>
 </td>
 </tr>
+</tbody>
 </table>
 
----
+<hr/>
 
 ## In the current cut
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Dart</h3><sub>Current focus</sub></td>
-<td width="33%" valign="top"><h3>TypeScript</h3><sub>In the active build queue</sub></td>
-<td width="33%" valign="top"><h3>C++</h3><sub>In the active build queue</sub></td>
-</tr>
-</table>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&items=Dart%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20active%20build%20queue%7CC%2B%2B%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img width="100%" alt="Heng Chhay cinematic highlights" src="https://www.gitskins.com/api/section/highlights?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&items=Dart%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20active%20build%20queue%7CC%2B%2B%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" />
+</picture>
+</p>
 
 <p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
----
+<hr/>
 
 ## Production palette
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=neon&style=terminal&label=Language%20Stack&command=stack.scan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=neon&style=terminal&label=Language%20Stack&command=stack.scan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=oss-stack-2&mode=dark" width="100%" alt="Heng Chhay language stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img width="100%" alt="Heng Chhay animated technology stack" src="https://www.gitskins.com/api/section/stack?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&v=cinematic-stack-2&mode=dark" />
 </picture>
 </p>
 
 <p align="center"><sub>Dart · TypeScript · C++ · CMake · HTML · Python · Ruby · Swift — tools chosen for the work, not the trend</sub></p>
 
----
+<hr/>
 
 ## Featured reel
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker&v=cinematic-projects-2&mode=light" />
+  <img width="100%" alt="Heng Chhay cinematic project reel" src="https://www.gitskins.com/api/section/projects?username=borossmossne&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F216141989%3Fu%3Dcc53974553c61d429024f4245d67fc93b2ac5f3a%26v%3D4&repos=borossmossne%2Fangkor_burger_app%2Cborossmossne%2Fpos_system_SV9%2Cborossmossne%2Ftha-nu-portfolio%2Cborossmossne%2Fexpend-tracker&v=cinematic-projects-2&mode=dark" />
+</picture>
+</p>
+
 <table width="100%">
+<tbody>
 <tr>
-<td width="25%" valign="top"><h4><a href="https://github.com/BorosSmosSne/angkor_burger_app">angkor_burger_app</a></h4><p>A selected scene from this public body of work.</p><sub>Dart · ⭐ 0</sub></td>
-<td width="25%" valign="top"><h4><a href="https://github.com/BorosSmosSne/pos_system_SV9">pos_system_SV9</a></h4><p>A selected scene from this public body of work.</p><sub>Dart · ⭐ 0</sub></td>
-<td width="25%" valign="top"><h4><a href="https://github.com/BorosSmosSne/tha-nu-portfolio">tha-nu-portfolio</a></h4><p>A selected scene from this public body of work.</p><sub>TypeScript · ⭐ 0</sub></td>
-<td width="25%" valign="top"><h4><a href="https://github.com/BorosSmosSne/expend-tracker">expend-tracker</a></h4><p>A selected scene from this public body of work.</p><sub>HTML · ⭐ 0</sub></td>
+<td width="25%"><p><strong><a href="https://github.com/BorosSmosSne/angkor_burger_app">angkor_burger_app</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="25%"><p><strong><a href="https://github.com/BorosSmosSne/pos_system_SV9">pos_system_SV9</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="25%"><p><strong><a href="https://github.com/BorosSmosSne/tha-nu-portfolio">tha-nu-portfolio</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%"><p><strong><a href="https://github.com/BorosSmosSne/expend-tracker">expend-tracker</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
 </tr>
+</tbody>
 </table>
 
 <p align="center"><sub>10 public projects · 0 stars · 50 contributions · 0 followers</sub></p>
 
----
+<hr/>
 
 ## Contribution trail
 
@@ -101,7 +103,7 @@
 
 <p align="center"><sub>50 contributions, one continuous run — live</sub></p>
 
----
+<hr/>
 
 ## Keep the story moving
 
