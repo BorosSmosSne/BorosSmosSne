@@ -38,6 +38,7 @@
 <strong>11</strong> repos &nbsp;·&nbsp; <strong>51</strong> contributions &nbsp;·&nbsp; <strong>0</strong> followers
 
 </div>
+
 <hr/>
 
 ## In the current cut
