@@ -26,16 +26,21 @@
 
 <div align="center">
 
+<table width="100%" style="display: table; width: 100%; table-layout: fixed;">
+<tbody>
+<tr>
+<td width="58%" align="center">
 <blockquote>Heng Chhay (SV9)</blockquote>
-<sub>Small teams, ambitious ideas, and useful collaborations.</sub>
-
-<br/><br/>
-
-<code>PROFILE</code>
-<br/>
-<sub>ROLE · Frontend or full-stack engineer · BASED · Phnom Penh · FOCUS · Dart</sub>
-<br/><br/>
-<strong>11</strong> repos &nbsp;·&nbsp; <strong>51</strong> contributions &nbsp;·&nbsp; <strong>0</strong> followers
+<p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p>
+</td>
+<td width="42%" align="center">
+<p><code>PROFILE</code></p>
+<p><sub>ROLE · Frontend or full-stack engineer<br>BASED · Phnom Penh<br>FOCUS · Dart</sub></p>
+<p><strong>11</strong> repos<br><strong>51</strong> contributions<br><strong>0</strong> followers</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
