@@ -120,3 +120,18 @@
 
 <p align="center"><a href="https://github.com/borossmossne">GitHub</a></p>
 <p align="center"><sub>Heng Chhay · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## 📡 Let's Build Something
+
+<p align="center">I enjoy collaborating with teams that care about craft, solid architecture, and shipping useful software.</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/heng-chhay-b1a672366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hengchhay2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/heng_chhayy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/heng.chhay.310634"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+<div align="center">
+  <sub>© 2026 Heng Chhay · Phnom Penh, Cambodia</sub>
+</div>
